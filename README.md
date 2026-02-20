@@ -40,7 +40,5 @@ Simulação de raios reais
 Sugestões, melhorias e colaborações são bem-vindas. 😎
 
 GitHub: https://github.com/laura-katiuscia
-linkedin: https://www.linkedin.com/in/laura-katiuscia
-
 LinkedIn: https://www.linkedin.com/in/laura-katiuscia
 ⭐ Se este projeto foi útil, considere deixar uma estrela!
